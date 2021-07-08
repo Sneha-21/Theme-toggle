@@ -1,0 +1,12 @@
+.dark_theme{
+	background-color: #333333;
+	color:white
+}
+.dark_theme .toggle_menu{
+	background-color: #ffffff;
+	
+}
+.dark_theme .circle{
+	background-color:#777777;
+	transform: translateX(30px);
+}
